@@ -1,5 +1,12 @@
 # mykademlia
 
+## clone
+``
+curl -L https://git.io/vQhTU | bash -s -- --version 1.23.2
+git clone https://github.com/xcosmos/exercise-kad-dht-go.git
+
+``
+
 ## 최소 피어 요구사항 설정:
 
 MIN_PEERS = 3: 최소 3개의 피어가 필요

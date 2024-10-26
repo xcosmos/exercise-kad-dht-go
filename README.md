@@ -3,6 +3,7 @@
 ## clone
 ``
 curl -L https://git.io/vQhTU | bash -s -- --version 1.23.2
+source ~/.bashrc
 git clone https://github.com/xcosmos/exercise-kad-dht-go.git
 
 ``
